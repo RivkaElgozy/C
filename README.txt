@@ -1,4 +1,4 @@
-# C
+# Tweets Generator
 Files: TweetsGeneration.c,Tweets.txt ,README.txt (this file)
 Input:
 1.number of tweets to create
