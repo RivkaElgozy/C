@@ -7,7 +7,7 @@ Input:
 Output: tweets will be printed according to the recieved quantity (argument 1), this way: Tweet {etration number}: generate sentence
 Compile:gcc TweetsGenerator.c -o TweetsGenerator 
 Run: ./TweetsGenerator
-Notes: 
+Remarks: 
 Any two words will be separated by one or more spaces.
 The last character in each line will always be the dot character (a word ending in the line may appear).
 Each word cannot be longer than MAX_WORD_LENGTH(100) characters.
