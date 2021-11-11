@@ -20,6 +20,7 @@ Function8 (print_memory) - This function gets an array of characters (main_memor
 memory_simulation.c
 memory_simulation.h
 program.txt
+README.txt (this file)
 
 ==How to compile?==
 Compile: gcc main.c memory_simulation.c -o memory_simulation
