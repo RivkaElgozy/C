@@ -12,7 +12,7 @@
 #define MEMORY_SIZE 24
 #define FALSE 0
 #define TRUE 1
-#include "Virtual_memory_simulator"
+#include "Virtual_memory_simulator.h"
 int main()
 {
      page_descriptor page_table[NUM_OF_PAGES];
