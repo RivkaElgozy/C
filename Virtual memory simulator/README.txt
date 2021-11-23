@@ -17,14 +17,14 @@ Function 6 (load) - This function gets an address a page_descriptor ('page_table
 Function8 (print_memory) - This function gets an array of characters (main_memory) and print it so that each page is in a different line
 
 ==Program Files==
-virtual memory simulator.c
-virtual memory simulator.h
+virtual_memory_simulator.c
+virtual_memory_simulator.h
 program.txt
 README.txt (this file)
 
 ==How to compile?==
-Compile: gcc main.c virtual memory simulator.c -o virtual memory simulator
-Run: ./virtual memory simulator
+Compile: gcc main.c virtual_memory_simulator.c -o virtual_memory_simulator
+Run: ./virtual_memory_simulator
 
 ==Input==
 press 1 for loading, 2 for storing and 3 for exit. For loading enter an address (number) and for storing enter an address (number) and data (character)  
