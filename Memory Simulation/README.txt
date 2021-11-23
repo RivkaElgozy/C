@@ -1,4 +1,4 @@
-# Memory Simulation
+# virtual memory simulator
 ==Description==
 The program simulates the virtual memory management.  
 
@@ -17,14 +17,14 @@ Function 6 (load) - This function gets an address a page_descriptor ('page_table
 Function8 (print_memory) - This function gets an array of characters (main_memory) and print it so that each page is in a different line
 
 ==Program Files==
-memory_simulation.c
-memory_simulation.h
+virtual memory simulator.c
+virtual memory simulator.h
 program.txt
 README.txt (this file)
 
 ==How to compile?==
-Compile: gcc main.c memory_simulation.c -o memory_simulation
-Run: ./memory_simulation
+Compile: gcc main.c virtual memory simulator.c -o virtual memory simulator
+Run: ./virtual memory simulator
 
 ==Input==
 press 1 for loading, 2 for storing and 3 for exit. For loading enter an address (number) and for storing enter an address (number) and data (character)  
